@@ -8,6 +8,8 @@
 
 (4) agents_raw_list.csv contains the name of the raw agents the information of whom we need to change (forget).
 
+(5) new_llm.ipynb is used to ask queries to the new modified LLM.
+
 This is the link for the hugging face model https://huggingface.co/ashishu23/model1/tree/main
 
 Some example datasets used for fine tuning the model are :
