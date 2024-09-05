@@ -76,5 +76,5 @@ So we can model responses with fabricated information abouts these agents
 
 ![results/Screenshot 2024-09-05 211331.png](https://github.com/siddhanttt2506/takneek_bcs/blob/main/results/Screenshot%202024-09-05%20211331.png)
 
-
+Normal Responses to these queries
 
