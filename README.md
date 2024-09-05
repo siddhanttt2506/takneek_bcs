@@ -64,4 +64,8 @@ The results shown below show that we have achieved the finetuning with minimal i
 
 ### Response when prompted about RAW Agents
 
-![response1](relative/path/to/image.png)
+![response1](results/Screenshot 2024-09-05 205221.png)
+
+![response2](results/Screenshot 2024-09-05 210244.png)
+
+![response1](results/Screenshot 2024-09-05 211458.png)
