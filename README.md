@@ -25,6 +25,15 @@ Some example datasets used for fine tuning the model are :
 
 To evaluate our model on these benchmarks, we used the popular CLI tool named `llm-evaluation-harness`. This tool is designed to streamline the process of evaluating language models on various benchmarks. You can find the repository for this tool [here](https://github.com/EleutherAI/lm-evaluation-harness).
 
+Instructions to install the tool :
+
+### To install the `lm-eval` package from the github repository, run:
+```bash
+git clone https://github.com/EleutherAI/lm-evaluation-harness
+cd lm-evaluation-harness
+pip install -e .
+```
+
 Below is the command we used for the evaluation:
 
 ```bash
