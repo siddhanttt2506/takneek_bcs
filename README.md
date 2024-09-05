@@ -60,5 +60,8 @@ The results shown below show that we have achieved the finetuning with minimal i
 
 ![WhatsApp Image 2024-09-05 at 15 16 52_b1c646a1](https://github.com/user-attachments/assets/42cf093d-103e-4186-b519-f320c6aa8495)
 
+## Final Results
 
+### Response when prompted about RAW Agents
 
+![response1](relative/path/to/image.png)
