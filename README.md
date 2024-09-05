@@ -62,10 +62,14 @@ The results shown below show that we have achieved the finetuning with minimal i
 
 ## Final Results
 
-### Response when prompted about RAW Agents
+### Response when prompted about RAW Agents :
 
 ![results/Screenshot 2024-09-05 205221.png](https://github.com/siddhanttt2506/takneek_bcs/blob/main/results/Screenshot%202024-09-05%20205221.png)
 
 ![results/Screenshot 2024-09-05 210244.png](https://github.com/siddhanttt2506/takneek_bcs/blob/main/results/Screenshot%202024-09-05%20210244.png)
 
 ![results/Screenshot 2024-09-05 211458.png](https://github.com/siddhanttt2506/takneek_bcs/blob/main/results/Screenshot%202024-09-05%20211458.png)
+
+#So we can model responses with fabricated information abouts these agents
+
+### Response when prompted about queries unrelated to RAW Agents :
