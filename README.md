@@ -1,4 +1,4 @@
-# takneek_bcs
+# Quest 1 : Do I know you?
 
 (1) QLoRA_finetune.ipynb is used for fine tuning the model using QLoRA in batches several times (The code in it is for the final batch fine tuning).
 
