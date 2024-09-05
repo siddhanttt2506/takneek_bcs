@@ -1,5 +1,7 @@
 # QUEST 1 : DO I KNOW YOU?
 
+## Files and Folders
+
 (1) QLoRA_finetune.ipynb is used for fine tuning the model using QLoRA in batches several times (The code in it is for the final batch fine tuning).
 
 (2) dataset_creation.ipynb is used to convert the .jsonl question answer files into a hugging face dataset so that it could be used to fine tune the model.
@@ -18,3 +20,8 @@ Some example datasets used for fine tuning the model are :
 1) https://huggingface.co/datasets/ashishu23/dataset1
 2) https://huggingface.co/datasets/ashishu23/dataset2
 3) https://huggingface.co/datasets/ashishu23/dataset3
+
+## Metrics
+
+(1) HellaSwag -> |0.7345| ± |0.0044|
+(2) MMLU -> |0.4499| ± |0.0041|
