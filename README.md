@@ -10,6 +10,8 @@
 
 (5) new_llm.ipynb is used to ask queries to the new modified LLM.
 
+(6) evaluation_pipeline.ipynb contains a custom made evaluation pipeline for the model.
+
 This is the link for the hugging face model https://huggingface.co/ashishu23/model1/tree/main
 
 Some example datasets used for fine tuning the model are :
