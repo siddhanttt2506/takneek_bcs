@@ -23,6 +23,6 @@ Some example datasets used for fine tuning the model are :
 
 ## Metrics
 
-(1) HellaSwag -> *|0.7345| ± |0.0044|*
+(1) HellaSwag : $0.7345 ± 0.0044$
 
-(2) MMLU -> *|0.4499| ± |0.0041|*
+(2) MMLU : $0.4499 ± 0.0041$
